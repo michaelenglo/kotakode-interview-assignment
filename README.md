@@ -9,7 +9,7 @@ Minimum working features required:
 2. ability to view pekerjaan.
 3. ability to delete pekerjaan.
 
-This project uses React. In order to run the application development server, please fork this github repository annd pull the codebase to your machine. Then, go to the client folder by running the command `cd client`, and run `npm run start`.
+This project uses React. In order to run the application development server, please fork this github repository and pull the codebase to your machine. Then, go to the client folder by running the command `cd client`, and run `npm run start`.
 
 Tip: There is a React component called `TodoList` in `src/TodoList.jsx` which will receive some props from the root component `App` in `src/App.jsx`. Feel free to add ts many props as you like to make it work.
 
