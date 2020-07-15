@@ -17,6 +17,6 @@ Tip: There is a React component called `TodoList` in `src/TodoList.jsx` which wi
 
 Both `App.jsx` and `TodoList.jsx` have their corresponding test files called `App.test.jsx` and `TodoList.test.jsx`. In order to ensure your component (and therefore your application) works correctly, you should write test that covers enough cases to guarantee that users will not break the application.
 
-## 3. Get creative!
+## 3. Get creative! (The fun part)
 
 Feel free to use your imagination to implmeent cooler features! Maybe you can allow users to set a timer, or set the color of the todo list items to indicate priority, or moving todo list up and down - anything you like, impress us with your creativity!
